@@ -1,0 +1,8 @@
+renderDistance:2
+simulationDistance:5
+entityDistanceScaling:1.0
+ao:false
+enableVsync:true
+renderClouds:"true"
+particles:2
+graphicsMode:0
