@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 *.jar -text
+Required/mods/watermedia_binaries-3.0.0.6.jar filter=lfs diff=lfs merge=lfs -text

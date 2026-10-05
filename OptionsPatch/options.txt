@@ -6,3 +6,4 @@ enableVsync:true
 renderClouds:"true"
 particles:2
 graphicsMode:0
+guiScale:3
